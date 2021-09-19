@@ -1,4 +1,4 @@
 # credit-risk-modelling
-Memprediksi fraud dari data credit menggunakan Logistic Regression dengan modul Keras yang mengasilkan AUC Score sebesar 1.0
+Predicting fraud from credit data using Logistic Regression with Keras module which produces an AUC Score of 1.0
 
 ![](AUC%20Score.png)
